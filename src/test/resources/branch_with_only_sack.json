@@ -1,0 +1,11 @@
+{
+  "vehicle": "34 TL 34",
+  "route": [
+    {
+      "deliveryPoint": 1,
+      "deliveries": [
+        {"barcode": "C725799"}
+      ]
+    }
+  ]
+}

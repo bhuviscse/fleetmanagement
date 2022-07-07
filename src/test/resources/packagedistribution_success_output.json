@@ -1,0 +1,78 @@
+{
+  "packageDistribution": {
+    "vehicle": "34 TL 34",
+    "route": [
+      {
+        "deliveryPoint": 1,
+        "deliveries": [
+          {
+            "barcode": "P7988000121",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P7988000122",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P7988000123",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P8988000121",
+            "state": "LOADED"
+          },
+          {
+            "barcode": "C725799",
+            "state": "LOADED"
+          }
+        ]
+      },
+      {
+        "deliveryPoint": 2,
+        "deliveries": [
+          {
+            "barcode": "P8988000123",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P8988000124",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P8988000125",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "C725799",
+            "state": "UNLOADED"
+          }
+        ]
+      },
+      {
+        "deliveryPoint": 3,
+        "deliveries": [
+          {
+            "barcode": "P9988000126",
+            "state": "LOADED"
+          },
+          {
+            "barcode": "P9988000127",
+            "state": "LOADED"
+          },
+          {
+            "barcode": "P9988000128",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P9988000129",
+            "state": "UNLOADED"
+          },
+          {
+            "barcode": "P9988000130",
+            "state": "LOADED"
+          }
+        ]
+      }
+    ]
+  }
+}
